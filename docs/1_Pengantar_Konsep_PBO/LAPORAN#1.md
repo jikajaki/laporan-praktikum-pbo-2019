@@ -3,8 +3,8 @@
 ## Kompetensi
 
 Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
-1.Perbedaan paradigma berorientasi objek dengan paradigma struktural
-2.Konsep dasar PBO
+1. Perbedaan paradigma berorientasi objek dengan paradigma struktural
+2. Konsep dasar PBO
 
 
 ## Ringkasan Materi
@@ -19,16 +19,14 @@ Kelebihan PBO adalah program dapat lebih fleksibel dan modular, jika ada perubah
 Didalam percobaan ini, kita akan mendemonstrasikan bagaimana membuat class, membuat object, kemudian mengakses method didalam class tersebut.
 
 
-![contoh screenshot](img/Sepeda1841720116zakhy.jpg)
+![Program sepeda](img/Sepeda1841720116zakhy.jpg)
 
 Contoh link kode program : [sepeda1841720116zakhy.java](../../src/1_Pengantar_Konsep_PBO/sepeda1841720116zakhy.java)
 
 ### Percobaan 2
 Setelah membuat class, membuat object, kemudian mengakses method didalam class, pada percobaan ke dua menamambahkan extend yaitu menjadi dua class menjadi satu (pemanggilan ke induknya)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
-![contoh screenshot](img/sepedademo1841720116zakhy.jpg)
+![Program sepeda Demo](img/sepedademo1841720116zakhy.jpg)
 
 Contoh link kode program : [sepedademo1841720116zakhy.java](../../src/1_Pengantar_Konsep_PBO/sepedademo1841720116zakhy.java)
 
@@ -72,7 +70,7 @@ Jawab: Karena kita sudah mendapatkan atau memanggil nama fungsi dari extands yan
 ## Tugas
 
 
-![contoh screenshot](img/pesawat1841720116zakhy.jpg)
+![Program Pesawat](img/pesawat1841720116zakhy.jpg)
 
 Contoh link kode program : [T1Pesawat1841720116zakhy.java](../../src/1_Pengantar_Konsep_PBO/T1Pesawat1841720116zakhy.java)
 
