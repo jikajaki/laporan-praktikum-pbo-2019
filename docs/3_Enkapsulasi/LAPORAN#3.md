@@ -26,7 +26,7 @@ Getter adalah public method dan memiliki tipe data return, yang berfungsi untuk 
 Didalam percobaan enkapsulasi, buatlah class Motor yang memiliki atribut kecepatan dan kontakOn, dan memiliki method printStatus() untuk menampilkan status motor. 
 
 - Class main, motordemo1841720116zakhy.java
-![contoh screenshot](img/motor1.jpg)
+![contoh screenshot](img/motor1.JPG)
 
 Link kode program : [motordemo1841720116zakhy.java](../../src/3_Enkapsulasi/motordemo1841720116zakhy.java)
 
@@ -60,7 +60,7 @@ Misalkan di sebuah sistem informasi koperasi, terdapat class Anggota. Anggota me
 
 
 - Class main, koperasianggota1841720116zakhydemo.java
-![contoh screenshot](img/anggota.jpg)
+![contoh screenshot](img/anggota.JPG)
 
 Link kode program : [koperasianggota1841720116zakhydemo.java](../../src/3_Enkapsulasi/koperasianggota1841720116zakhydemo.java)
 
@@ -68,8 +68,8 @@ Link kode program : [koperasianggota1841720116zakhydemo.java](../../src/3_Enkaps
 
 
 - Class main, koperasianggota1841720116zakhydemo.java
-![contoh screenshot](img/anggota1.jpg)
-![contoh screenshot](img/anggota2.jpg)
+![contoh screenshot](img/anggota1.JPG)
+![contoh screenshot](img/anggota2.JPG)
 
 Link kode program : [koperasianggota1841720116zakhydemo.java](../../src/3_Enkapsulasi/koperasianggota1841720116zakhydemo.java)
 
@@ -109,7 +109,7 @@ Link kode program : [koperasianggota1841720116zakhydemo.java](../../src/3_Enkaps
 1. Cobalah program dibawah ini dan tuliskan hasil outputnya
 
 - Class main, EncapDemo1841720116zakhytest.java
-![contoh screenshot](img/tugas.jpg)
+![contoh screenshot](img/tugas.JPG)
 
 Link kode program : [EncapDemo1841720116zakhytest.java](../../src/3_Enkapsulasi/EncapDemo1841720116zakhytest.java)
 
@@ -119,8 +119,8 @@ Link kode program : [EncapDemo1841720116zakhytest.java](../../src/3_Enkapsulasi/
 3. Ubah program diatas agar atribut age dapat diberi nilai maksimal 30 dan minimal 18. 
 
 - Class main, EncapDemo1841720116zakhytest.java
-![contoh screenshot](img/tugas1.jpg)
-![contoh screenshot](img/tugas2.jpg)
+![contoh screenshot](img/tugas1.JPG)
+![contoh screenshot](img/tugas2.JPG)
 
 Link kode program : [EncapDemo1841720116zakhytest.java](../../src/3_Enkapsulasi/EncapDemo1841720116zakhytest.java)
 
