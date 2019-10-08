@@ -131,7 +131,7 @@ Link kode program : [KeretaApi1841720116zakhy.java](../../src/4_Relasi_Class/Ker
 
 - Class Pegawai1841720116zakhy.java
 
-![contoh screenshot](img/Pegawai.JPG)
+![contoh screenshot](img/pegawai.JPG)
 
 Link kode program : [Pegawai1841720116zakhy.java](../../src/4_Relasi_Class/Pegawai1841720116zakhy.java)
 
@@ -217,6 +217,20 @@ Link kode program : [Mainpercobaan4_1841720116zakhy.java](../../src/4_Relasi_Cla
 
 Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasikan ke dalam program! Studi kasus harus mewakili relasi class dari percobaan‑percobaan yang telah dilakukan pada materi ini, setidaknya melibatkan minimal 4 class (class yang berisi main tidak dihitung). 
  
+ ![contoh screenshot](img/kasir.JPG)
+Link kode program : [Kasir1841720116zakhy.java](../../src/4_Relasi_Class/Kasir1841720116.java)
+
+ ![contoh screenshot](img/makanan.JPG)
+Link kode program : [Makanan1841720116zakhy.java](../../src/4_Relasi_Class/Makanan1841720116zakhy.java)
+
+ ![contoh screenshot](img/pelayan.JPG)
+Link kode program : [Pelayan1841720116zakhy.java](../../src/4_Relasi_Class/Pelayan1841720116zakhy.java)
+
+ ![contoh screenshot](img/pembeli.JPG)
+Link kode program : [Pembeli1841720116zakhy.java](../../src/4_Relasi_Class/Pembeli1841720116zakhy.java)
+
+ ![contoh screenshot](img/tugas.JPG)
+Link kode program : [Tugas1841720116zakhy.java](../../src/4_Relasi_Class/Tugas1841720116zakhy.java)
 
 ## Kesimpulan
 
