@@ -1,4 +1,4 @@
-# Laporan Praktikum #12 - Collection (List, Set, Map) dan Database  
+# Laporan Praktikum #14 - GUI dan Database  
 
 ## Uji Kompetensi
 
@@ -27,7 +27,7 @@ Library yang digunakan untuk project ini antara lain :
 ## Percobaan
 
 ### Percobaan 1
-
+![Screenshot](img/dbperpus.jpg) 
 
 ### Percobaan 2
 Mempersiapkan project.
@@ -55,7 +55,7 @@ link kode program:
 ### Percobaan 5
 Mencoba backed yang sudah dibuat dengan mengoperasikannya lewat frontend berbasis teks (console). Percobaan ini dapat anda skip jika anda telah yakin bahwa backend yang anda buat sudah berfungsi dengan baik. 
 
-![Screenshot](img/.jpg)
+![Screenshot](img/Tb.jpg)
 
 link kode program: 
 
@@ -123,7 +123,7 @@ link kode program:
 ## Tugas
 1. Buatlah class Peminjaman.
 
-![Screenshot](img/pemijaman.jpg)
+![Screenshot](img/peminjaman.jpg)
 
 [Peminjaman1841720116zakhy.java](../../src/14_GUI_dan_Database/beckhend/Peminjaman1841720116zakhy.java)
 
